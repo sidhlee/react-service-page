@@ -1,2 +1,3 @@
-# react-service-page
-Created with CodeSandbox
+# React Serive Page
+
+Static service page using React and Sass
